@@ -1,5 +1,9 @@
 # ASoul 评论区梗解释
 
+## 当前工作
+
+[ASoul-梗百科](./asoul.md)
+
 ## 梗百科格式
 
 ```markdown
