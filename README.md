@@ -1,7 +1,3 @@
-# 该 repo 已经永久存档，不再更新，梗百科维护已经转交
-
-[查看梗百科新 repo](https://github.com/sakifore/ASoul_meme_explanation)
-
 # ASoul 评论区梗解释
 
 ## 当前工作
