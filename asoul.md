@@ -138,7 +138,7 @@
 
 **变体**：
 
-**来源**：山泥若解说 [2018MS决赛RNGvsKZ](https://www.bilibili.com/video/BV1DW411D71q) ，开头
+**来源**：山泥若解说 [2018MSI决赛RNGvsKZ](https://www.bilibili.com/video/BV1DW411D71q) ，开头
 
 **语义**：字面意思，在 [贝拉跳maria](https://www.bilibili.com/video/BV1Hf4y1e7Yy) 的时候，嘉然和向晚像迷妹一样在旁尖叫（上班追星了属于是），弹幕会刷。在别人ky或者想让其ky的时候，也会出现
 
