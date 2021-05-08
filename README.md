@@ -4,6 +4,44 @@
 
 [ASoul-梗百科](./asoul.md)
 
+## 如何贡献
+
+如果你也对这个梗百科有兴趣，可以依照如下步骤进行贡献：
+
+1. `fork` 仓库
+
+点击右上角的 `fork` 按钮将该仓库 fork 到你的账户下。
+
+2. 拉取仓库到本地并编辑
+
+拉取仓库:
+
+```bash
+git clone https://github.com/{{YOURNAME}}/ASoul_meme_explanation
+```
+
+新建分支：
+
+```bash
+git checkout -b {{NEW_CHANGE}}
+
+# 例子
+git checkout -b some-meme
+```
+
+编辑时请尽量依照下章梗百科格式的要求。同时请不要编辑 `README.md`。
+
+3. 提交
+
+```bash
+git add . && git commit -m "你做了什么修改"
+git push origin master
+```
+
+4. 提交 PR
+
+点击 Pull Request, 将分支提交到这个仓库。
+
 ## 梗百科格式
 
 关于该仓库梗百科编辑有如下要求。
