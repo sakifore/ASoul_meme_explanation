@@ -6,6 +6,8 @@
 
 ## 梗百科格式
 
+请使用 Markdown 格式编辑。
+
 ```markdown
 ## 梗归类（比如电竞类）
 
@@ -22,5 +24,5 @@
 
 ## MIT LICENSE
 
-该仓库遵循 MIT LICENSE
+该仓库遵循 [MIT LICENSE](./LICENSE.txt)
 
