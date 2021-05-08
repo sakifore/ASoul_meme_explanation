@@ -6,7 +6,13 @@
 
 ## 梗百科格式
 
-请使用 Markdown 格式编辑。
+关于该仓库梗百科编辑有如下要求。
+
+1. 请使用 Markdown 格式编辑。
+
+如对 Markdown 语法不熟悉，可以查看这篇文章： [Markdown语法教程](https://markdown.com.cn/intro.html#markdown-%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F)
+
+2. 请使用如下格式进行百科内容编辑
 
 ```markdown
 ## 梗归类（比如电竞类）
@@ -21,6 +27,11 @@
 
 **应用**：梗的使用范例。
 ```
+
+3. 请使用正确的中英文文案编辑格式
+
+请查看 [中文文案排版指北](https://github.com/mzlogin/chinese-copywriting-guidelines/blob/Simplified/README.md)
+并依照文章规范进行文案编辑。
 
 ## MIT LICENSE
 
