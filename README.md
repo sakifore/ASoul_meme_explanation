@@ -31,7 +31,13 @@ git checkout -b {{NEW_CHANGE}}
 git checkout -b some-meme
 ```
 
-然后对 `asoul.md` 文件进行编辑， 编辑时请尽量依照下章梗百科格式的要求。同时请不要编辑 `README.md`。
+然后对 `asoul.md` 文件进行编辑， 编辑时请尽量依照下章梗百科格式的要求。
+
+同时请注意几点：
+
+- 请不要编辑 `README.md`。
+- 请不要编辑 `asoul.md` 里目录索引的部分，上传后会有脚本自动处理。
+- 请不要编辑 `LICENSE.txt`
 
 3. 提交
 
