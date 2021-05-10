@@ -1,5 +1,7 @@
 # ASoul 评论区梗解释
 
+![TOC GENERATOR](https://github.com/sakifore/ASoul_meme_explanation/actions/workflows/gen_toc.yml/badge.svg)
+
 ## 当前工作
 
 [ASoul-梗百科](./asoul.md)
