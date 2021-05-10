@@ -3,7 +3,7 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 <details>
-<summary>Table of Contents</summary>
+<summary>点击展开</summary>
 
 - [未分类](#%E6%9C%AA%E5%88%86%E7%B1%BB)
   - [嘉然小姐的狗](#%E5%98%89%E7%84%B6%E5%B0%8F%E5%A7%90%E7%9A%84%E7%8B%97)
