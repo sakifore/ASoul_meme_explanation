@@ -29,7 +29,7 @@ git checkout -b {{NEW_CHANGE}}
 git checkout -b some-meme
 ```
 
-编辑时请尽量依照下章梗百科格式的要求。同时请不要编辑 `README.md`。
+然后对 `asoul.md` 文件进行编辑， 编辑时请尽量依照下章梗百科格式的要求。同时请不要编辑 `README.md`。
 
 3. 提交
 
