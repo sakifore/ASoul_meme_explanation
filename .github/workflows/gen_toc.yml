@@ -1,0 +1,12 @@
+on: [push, pull_request]
+name: TOC Generator
+jobs:
+  generateTOC:
+    name: generate toc
+    runs-on: ubuntu-latest
+    steps:
+      - uses: technote-space/toc-generator@v4
+        with:
+          CREATE_PR: true
+          FOLDING: true
+          TARGET_PATHS: "asoul.md"
