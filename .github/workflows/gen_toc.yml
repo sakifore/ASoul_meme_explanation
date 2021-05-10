@@ -1,5 +1,12 @@
-on: [push, pull_request]
-name: TOC Generator
+on: 
+  push:
+    paths:
+      - "asoul.md"
+  pull_request:
+    paths:
+      - "asoul.md"
+
+name: "目录生成"
 jobs:
   generateTOC:
     name: generate toc
