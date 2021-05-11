@@ -6,7 +6,7 @@ on:
     paths:
       - "asoul.md"
 
-name: "目录生成"
+name: "TOC"
 jobs:
   generateTOC:
     name: generate toc
@@ -16,8 +16,8 @@ jobs:
         with:
           TOC_TITLE: "点击展开"
           CREATE_PR: true
-          COMMIT_MESSAGE: "生成目录索引"
-          COMMIT_NAME: avimitin
+          COMMIT_MESSAGE: "(自动生成) 生成目录索引"
+          COMMIT_NAME: toc_generator
           COMMIT_EMAIL: avimitin@gmail.com
           FOLDING: true
           TARGET_PATHS: "asoul.md"
