@@ -79,6 +79,31 @@ git push origin master
 请查看 [中文文案排版指北](https://github.com/mzlogin/chinese-copywriting-guidelines/blob/Simplified/README.md)
 并依照文章规范进行文案编辑。
 
+4. （推荐，可选）可以使用如下的 Commit Message 模板进行 commit
+
+```text
+<type>(optional text): <descriptions>
+```
+
+例子：
+
+- 修改了一些语法错误：
+
+```text
+git commit -m "订正： 修复了含金量条目的语法错误"
+```
+
+- 增加了新的条目：
+
+```text
+git commit -m "更新： 新增 “欧系给” 条目"
+```
+
+可以参考下列网站来获得更详细描述：
+
+- [Udacity Git Commit Message Style Guide](udacity.github.io/git-styleguide/)
+- [Conventional Commits 1.0.0](https://www.conventionalcommits.org/en/v1.0.0/)
+
 ## MIT LICENSE
 
 该仓库遵循 [MIT LICENSE](./LICENSE.txt)
