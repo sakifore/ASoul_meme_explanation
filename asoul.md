@@ -524,7 +524,7 @@
 
 而后被p上了表情包，广为流传，后来隔了快一年在[90W纪念B限](https://www.bilibili.com/video/BV1Az411B7Mx)中解释了是翻译错误
 
-> ![90e19d395343fbf234b4774ea77eca8064388f06](.\image\90e19d395343fbf234b4774ea77eca8064388f06.jpg)
+> ![90e19d395343fbf234b4774ea77eca8064388f06](./image/90e19d395343fbf234b4774ea77eca8064388f06.jpg)
 
 **语义**：常用于“”害怕中文/日文“的场合，多是玩梗，常与”罕见“等开除国籍的行为连用
 
@@ -858,7 +858,7 @@
 
 **来源**：漫画《刃牙2》106话
 
->![-7Q5-3h1fXcZ3gT3cSu0-1hc.jpg.medium](.\image\-7Q5-3h1fXcZ3gT3cSu0-1hc.jpg.medium.jpg)
+>![renya206.jpg](./image/renya206.jpg)
 
 **语义**：v吧一开始用指导这个词是说的喜欢指导别人做事的人，有讽刺意味，特别日v字幕组对日v的直播间有很多的规矩，指导味很重；后来向晚曾在早期一次直播中表示自己比较喜欢这个称呼（晚指导），然后相对来说解构了其讽刺意义。
 
@@ -915,7 +915,7 @@
 
 ### 怎么会是呢
 
-> ![838ba61ea8d3fd1f04dc8d2ccb967c1894ca5f2a](.\image\838ba61ea8d3fd1f04dc8d2ccb967c1894ca5f2a.jpeg)
+> ![838ba61ea8d3fd1f04dc8d2ccb967c1894ca5f2a](./image/838ba61ea8d3fd1f04dc8d2ccb967c1894ca5f2a.jpeg)
 
 ### 嗨呀 是我吗
 
