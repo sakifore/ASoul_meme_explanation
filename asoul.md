@@ -171,7 +171,7 @@
 
 **来源**：来源于表情包，流汗黄豆衍生梗
 
-> ![544dc0cfc3fdfc03197d5afec33f8794a5c226a5](.\image\544dc0cfc3fdfc03197d5afec33f8794a5c226a5.jpg)
+> ![544dc0cfc3fdfc03197d5afec33f8794a5c226a5](./image/544dc0cfc3fdfc03197d5afec33f8794a5c226a5.jpg)
 
 **语义**：当冷笑话过于冷，或者情话过于土，会用这三个字表示自己的心情比较麻
 
