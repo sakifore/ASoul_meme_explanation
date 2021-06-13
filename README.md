@@ -1,3 +1,10 @@
+# 公告
+
+当前项目已经停止维护，我们已将工作重心转移至
+[Asoul指南](https://github.com/A-Soul-Guide/A-Soul-Surfing-Guide)
+
+欢迎访问我们的新网址： https://wiki.asoul.org
+
 # ASoul 评论区梗解释
 
 ![TOC GENERATOR](https://github.com/sakifore/ASoul_meme_explanation/actions/workflows/gen_toc.yml/badge.svg)
